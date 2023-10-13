@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I started programming in python at the age of 16 and then switched to doing DSA problems on Java and now I am learning full-stack web development.
+I started programming in python at the age of 16 and then switched to solving DSA problems using Java and now I am learning full-stack web development.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Link](http://faizan-20.github.io/portfolio-page/)
