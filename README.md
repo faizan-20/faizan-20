@@ -1,5 +1,5 @@
 # About Me:
-Hey, there. I am a computer science student and a web developer, currently working on some projects trying to upskill myself and break into tech. Happy coding:))
+Hey, there. I am a computer science student and a web developer. I love creating cool projects and customizing my dev environment, you can find various linux specefic dotfiles on my github. Currently I am working on various projects trying to upskill myself and break into tech. Happy coding :)
 
 
 ## Socials:
