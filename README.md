@@ -7,5 +7,12 @@ Hey, there. I am a computer science student and a web developer. I love creating
 ![faizan-20's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-20&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faizanunderstars) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-ahmad-0a62a81b6) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/faizan5567) 
+<details>
+  <summary><i>le footer</i></summary>
+  
+   *Discord* > coolpit20 <br/>
+   *Github* > well <br/>
+   *Mail* > faizan.20a [at] gmail.com <br/>
+   *X* > @faizan5567
+  
+</details>
