@@ -16,3 +16,7 @@ Hey, there. I am a computer science student and a web developer. I love creating
    *X* > @faizan5567
   
 </details>
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
