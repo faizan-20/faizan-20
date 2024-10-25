@@ -1,5 +1,5 @@
 # About Me:
-Hey, there. I am a computer science engineer and a web developer. I love creating projects and customizing my dev environment, you can find various projects and linux specefic dotfiles on my github. Currently I am working as a front end developer breathing life to various interesting projects. Happy coding :)
+Hey, there. I am a computer science engineer and a web developer. I love creating projects and customizing my dev environment, you can find various projects and linux specefic dotfiles on my github (which a few people find helpful). Currently I am working as a front end developer breathing life to various interesting projects. Happy coding :)
 
 
 ## Stats:
